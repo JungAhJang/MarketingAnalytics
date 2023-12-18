@@ -9,7 +9,7 @@ data 폴더
 - df_data: 모델링에 사용된 feature 칼럼이 있는 데이터 
 - df_target: 모델링에 사용된 label 칼럼이 있는 데이터
 
-코드
+code 폴더
 - america.ipynb: 미국 네이버 웹툰의 전체 작품을 크롤링한 코드
 - korea.ipynb: 한국 네이버 웹툰의 전체 작품을 크롤링한 코드
 - MA_data.ipynb: 미국에 진출한 한국 작품만 따로 정리한 데이터를 만든 코드
