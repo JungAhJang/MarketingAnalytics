@@ -1,5 +1,25 @@
 # MarketingAnalytics
 머신 러닝을 활용한 네이버 웹툰의 한국 작품 미국 진출 성공 예측
+
+data 폴더
+- korea: 한국 네이버 웹툰의 전체 작품을 크롤링한 데이터 테이블
+- america: 미국 네이버 웹툰의 전체 작품을 크롤링한 데이터 테이블
+- korea_add: korea 테이블에 isnovel , isamerica , america_title 칼럼을 추가한 데이터
+- data: 미국에 진출한 한국 작품만 따로 정리한 데이터
+- df_data: 모델링에 사용된 feature 칼럼이 있는 데이터 
+- df_target: 모델링에 사용된 label 칼럼이 있는 데이터
+
+코드
+- america.ipynb: 미국 네이버 웹툰의 전체 작품을 크롤링한 코드
+- korea.ipynb: 한국 네이버 웹툰의 전체 작품을 크롤링한 코드
+- MA_data.ipynb: 미국에 진출한 한국 작품만 따로 정리한 데이터를 만든 코드
+- MA_EDA.ipynb: 미국에 진출한 한국 작품만 따로 정리한 데이터에 대해 EDA를 한 코드
+- MA_model.ipynb: 미국에 진출한 한국 작품만 따로 정리한 데이터에 머신 러닝을 적용한 코드
+
+기타
+- chromedriver.exe: 크롤링을 위해 필요한 파일
+- NanumGothic: EDA할 때 한글 폰트 깨짐 방지를 위한 파일
+
 ![슬라이드1](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/91502fcc-f08f-4df5-b74f-6b2af451dc2e)
 ![슬라이드2](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/3efb8201-8d23-4891-8f6f-c2d8e9ac9d95)
 ![슬라이드3](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/b15c3551-d13e-4edb-b685-4ffc949e1b35)
