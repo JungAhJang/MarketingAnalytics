@@ -1,5 +1,26 @@
 # MarketingAnalytics
 머신 러닝을 활용한 네이버 웹툰의 한국 작품 미국 진출 성공 예측
 
-
-<img width="100%" src="https://github.com/JungAhJang/MarketingAnalytics/files/13704774/_FinalExam.pdf"/>
+![슬라이드23](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/56880499-4198-4b31-97e9-1f767d0bcbe2)
+![슬라이드22](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/49531f2d-1fa9-46c2-a922-a788d51d6c1c)
+![슬라이드21](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/2245dc30-a613-4b75-b93b-9f14487d2dd4)
+![슬라이드20](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/39969f31-508f-4649-97cb-bd81c14d7cd5)
+![슬라이드19](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/92c63b12-393e-402b-98e3-09a054e412ac)
+![슬라이드18](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/f705e4d0-6b5b-4a39-8317-2bb8041b4f5c)
+![슬라이드17](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/a8552a7b-ada7-4618-83b7-a45ff7bafffa)
+![슬라이드16](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/41efe4c7-e850-464d-a93f-a05cf9ba607a)
+![슬라이드15](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/9628f786-6c53-43c4-b9f3-d5fd62166260)
+![슬라이드14](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/fe99ca62-125a-456c-9d88-f6f3bceba0ff)
+![슬라이드13](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/73b707fb-6484-4737-86af-0dfaf372b02c)
+![슬라이드12](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/81376a87-3b80-478d-885d-885cefbe884f)
+![슬라이드11](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/57808cfc-896b-4953-a5a1-fc8f7bb6884e)
+![슬라이드10](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/70b08f2f-e828-47f5-8eb3-48b113710d4b)
+![슬라이드9](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/6f548d15-0e03-43d0-bae1-b3d897c66b40)
+![슬라이드8](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/39995fd2-7e5e-4ae9-be40-ccb6f73ca4cb)
+![슬라이드7](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/93401c30-bbcb-4b9a-8814-7b12cff827b1)
+![슬라이드6](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/c32a969f-2db4-436c-a3b9-d49f8f763630)
+![슬라이드5](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/96d2d724-abf7-4890-a6b8-f1c1c7f31495)
+![슬라이드4](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/7d7ec2d8-f5e3-4ee8-ae26-5d4cb24ce8d8)
+![슬라이드3](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/87f6673c-2af3-4f71-8a2a-1199aac856de)
+![슬라이드2](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/cc2ca5dc-040e-4bf4-9b3f-838bf595c950)
+![슬라이드1](https://github.com/JungAhJang/MarketingAnalytics/assets/86693895/11ec6114-c219-412b-a267-565bb1910486)
